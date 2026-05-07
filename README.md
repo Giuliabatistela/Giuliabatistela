@@ -50,7 +50,7 @@ Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campina
     align="left" 
     alt="C" 
     title="C"
-    width="28px" 
+    width="27px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
 />
