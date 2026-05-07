@@ -44,7 +44,7 @@ Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campina
   title="Csharp"
   width="30px"
   style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
+  src="https://github.com/user-attachments/assets/25cbc15b-3974-4919-9356-106ccafa5f3c" 
 />
 <img 
     align="left" 
