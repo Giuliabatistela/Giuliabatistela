@@ -39,12 +39,12 @@ Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campina
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
-    alt="Csharp" 
-    title="Csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
+  align="left"
+  alt="Csharp"
+  title="Csharp"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg"
 />
 <img 
     align="left" 
@@ -52,7 +52,7 @@ Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campina
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
 />
 
 <br/>
