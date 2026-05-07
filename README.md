@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Giulia Silva Batistela
+# Giulia Silva Batistela
 
 **`Desenvolvedora Back-End`**
 
 Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campinas. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, campus Hortolândia. Desde o ensino médio integrado ao técnico, venho desenvolvendo meus conhecimentos na área de tecnologia e desenvolvimento de software. Tenho experiência com HTML, CSS, JavaScript, C#, C e conhecimentos básicos em MySQL. Estou sempre em busca de aprender novas tecnologias e evoluir cada vez mais na área de desenvolvimento!
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -52,13 +52,13 @@ Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campina
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+    src="https://skillicons.dev/icons?i=c"
 />
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p>
   <img 
