@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-<p align="justify">Olá! Meu nome é Giulia Silva Batistela, tenho 18 anos e sou natural de Campinas. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, campus Hortolândia. Desde o ensino médio integrado ao técnico, venho desenvolvendo meus conhecimentos na área de tecnologia e desenvolvimento de software. Tenho experiência com HTML, CSS, JavaScript, C#, C e conhecimentos básicos em MySQL. Estou sempre em busca de aprender novas tecnologias e evoluir cada vez mais na área de desenvolvimento!</p>
+<p align="justify">Olá! Meu nome é Giulia Silva Batistela, tenho 19 anos e sou natural de Campinas. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no IFSP, campus Hortolândia. Desde o ensino médio integrado ao técnico, venho desenvolvendo meus conhecimentos na área de tecnologia e desenvolvimento de software. Tenho experiência com HTML, CSS, JavaScript, C#, C e conhecimentos básicos em MySQL. Estou sempre em busca de aprender novas tecnologias e evoluir cada vez mais na área de desenvolvimento!</p>
 
 ### Linguagens e Tecnologias
 
